@@ -1,4 +1,4 @@
-# Write a program to print Twinkle-Twinkle little start poem
+# Write a program to print Twinkle-Twinkle little star poem
 
 print("""
 Twinkle, twinkle, little star,
