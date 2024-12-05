@@ -1,4 +1,4 @@
-# Write a program to int(input the 8 numbers from the user and display all the unique numbers.)
+# Write a program to input the 8 numbers from the user and display all the unique numbers.
 
 s = set()
 
